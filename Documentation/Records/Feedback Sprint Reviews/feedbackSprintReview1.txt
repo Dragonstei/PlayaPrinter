@@ -1,0 +1,16 @@
+Notulen Sprint Review 1
+5 Maart 2019. 8:30
+Hogeschool Rotterdam WD.05.013
+Aanwezig: Nadine + Ornella + Wouter + Rick + Hans + Stan + Thomas  
+
+Feedback sprintreview 1. 
+
+	- De eerste volgende sprintreview moet onder andere ook het volgende bevatten:
+	- Hardware aansluitingen  + documenteren en weergeven
+	- Architecture ontwerp documenteren en weergaven
+	- Afbeeldingen fimpjes/foto gebruiken voor ondersteuning userstories(acceptatie criteria)
+	- Product backlog moet de feedback verwerken van vorige onderdelen
+	- Retrospective moet niet in de presentatie
+	- User story acceptatie ontbreekt
+	- Beginnen met vooronderzoek
+	- Gcode op gitlab

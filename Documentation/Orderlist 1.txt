@@ -1,0 +1,33 @@
+- 5 mm naar 5 mm kopeling stukje 
+	https://www.123-3d.nl/123-3D-Flexibele-motor-koppeling-5-mm-5-mm-i340-t3045.html   €4.00	
+OF
+https://www.amazon.com/uxcell-Coupling-L30xD25-Flexible-Coupler/dp/B07G6PTMH2/ref=sr_1_21?keywords=flexible+motor+coupling+5mm+5mm&qid=1552041474&s=gateway&sr=8-21 €10.00
+
+- 4 amps driver stepper motor 3x verzamelboordje
+https://www.amazon.com/gp/product/B06Y5VPSFN/ref=ox_sc_act_title_3?smid=AWQBCGWISS7BL&psc=1  
+
+- juiste diammeter pijp voor extruder 
+https://www.amazon.com/Small-Parts-Clear-Polycarbonate-Tube/dp/B003TJ9YI8
+
+-  second t10 nut (for coupling leadscrew to plunger):
+https://www.amazon.com/T10-Lead-Screw-Nut-10mm/dp/B07GBTSZ83/ref=sr_1_1?keywords=T10+Lead+Screw+nut&qid=1551998306&s=gateway&sr=8-1 €8.00
+
+- Dubbelzijdige hittegeleinde tape voor de heatsinks 
+- Slang extruder naar nozzle
+- 3/8" x 3/8" push fit male adapter
+
+- WormGearbox 20:1 of 30:1 :
+https://www.amazon.com/gp/offer-listing/B06XGH6LHZ/ref=dp_olp_new_mbc?ie=UTF8&condition=new  €69.00 
+
+https://www.youtube.com/watch?v=NVCXI3JaWYI
+https://www.youtube.com/watch?v=wg2vw3aIFhI
+https://forum.arduino.cc/index.php?topic=541983.0
+http://www.airspayce.com/mikem/arduino/AccelStepper/MultiStepper_8pde-example.html
+https://www.thingiverse.com/thing:831518
+Clay recipe used:
+35% kaolin
+25% ball clay
+20% nepheline syenite
+20% silica
+
+Add: deflocculant about 1% (sodium silicate, soda ash, or darvan 7) 

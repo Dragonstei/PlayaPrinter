@@ -1,0 +1,17 @@
+Notulen Meeting Playa printer`Project groep
+
+15 Maart 2019. 17:00 - 18:30
+RDM lab 
+Aanwezig: ProjectGroep(Thomas,Stan,Hans,Rick)+ PO(Elise) + Financiele afdeling+ Logistieke afdeling + Marketing afdeling
+
+Onderwerp: 1ste ontmoeting met alle afdelingen aan het project
+
+	- 1ste ontmoeting met projectgroep + finance/logistics/marketing opleidingen
+	- Plannen m.b.t. onderzoeken financiële sponsoring van bedrijven + overheid
+	- Technisch ontwerp en risico’s besproken
+	- Besproken hoe extra kennis vergaard kan worden m.b.t. nozzle/extruder ontwerp
+	- Taakverdeling:
+		Financiële analyse maken van het maken van Playa printer.
+		Logistieke analyse maken van het versturen van Playa printer.
+		Analyse van de relevante wetgeving.
+	- Afspraken gemaakt om Trello te gebruiken voor een algemeen overzicht. Elke donderdag wordt er afgesproken op het RDM. Website in de maak.

@@ -1,0 +1,19 @@
+Notulen Sprint review 3 
+2 April 2019. 09:00 - 09:30  
+Aanwezig: ProjectGroep(Thomas,Stan,Rick) + Ornello + Wouter
+
+Opmerkingen:
+- Vorige week dinsdagochtend feedback ronde gemist!
+- Elke donderdagochtend is verplicht op school.
+- Persoonlijk leerdoel niet ingeleverd.
+
+Feedback presentatie:
+- FreeCAD ontwerp maakt het verhaal duidelijk.
+- Het was onduidelijk welk gedeelte van de Z-as bij welke userstory hoorde, en daardoor welke sprint.
+- Om de ontwerpen volledig te maken, moeten er afmetingen worden toegevoegd.
+- Ontwerpen van hard/software willen ze graag zien.
+
+Risicolog:
+- Deze is altijd vooraf, alles wat achteraf gebeurd is een incident.
+- Niet alle berekeningen van de risico's klopte: kans * impact = risico.
+- De RAMPS destructie is hierin ook al een incident.

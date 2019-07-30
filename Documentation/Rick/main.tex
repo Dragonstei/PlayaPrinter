@@ -1,0 +1,83 @@
+\documentclass[12pt, a4paper]{article}
+
+\usepackage[dutch]{babel}
+\usepackage[utf8]{inputenc}
+
+% Skip to next paragraph on whiteline
+\usepackage{parskip}
+
+% Define bounds where text can be drawn
+\usepackage[top=100pt,bottom=100pt,left=75pt,right=75pt]{geometry}
+
+% Headings
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{Vooronderzoek Playa Printer}
+\rfoot{Pagina \thepage}
+\renewcommand{\contentsname}{Inhoudsopgave}
+
+% Colors and links
+\usepackage{color}
+\definecolor{blue}{rgb}{0,0.5,1}
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks = true,
+	linkcolor = blue,
+	urlcolor = blue,
+	citecolor = blue,
+}
+
+% Enable images
+\usepackage{graphicx}
+\graphicspath{{images}{../images/}}
+
+% Bibliography package
+\usepackage[numberedbib]{apacite}
+\bibliographystyle{apacite}
+% Rename bibliography list title
+\AtBeginDocument{\renewcommand\refname{Literatuurlijst}}
+
+% Load LaTeX subfiles
+\usepackage{import}
+\usepackage{subfiles}
+\usepackage[subpreambles=true]{standalone}
+
+% Titlepage
+\title{\textbf{Vooronderzoek Playa Printer\\Project 7/8}}
+\author{Rick van Vonderen, 0945444}
+\date{\today}
+
+\begin{document}
+	\clearpage\maketitle
+	\thispagestyle{empty}
+	\newpage
+
+	\setcounter{page}{1}
+	\tableofcontents
+	\newpage
+
+	\section{Example}
+	This is an example citation \cite{example}.
+
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+	Phasellus vel elit a enim tincidunt euismod sit amet id purus.
+	Morbi mattis aliquam euismod. Integer non dignissim lectus.
+	Nam mollis tincidunt sapien id volutpat.
+	Orci varius natoque penatibus et magnis dis parturient montes,
+	nascetur ridiculus mus.
+	Cras porta eget sapien sed aliquam.
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+	Vestibulum efficitur eros at justo laoreet, a cursus ex porttitor.
+	Duis malesuada dui quis leo vulputate, at venenatis turpis vulputate.
+	Nulla eget ipsum venenatis, ullamcorper neque at, vehicula massa.
+	Nunc consectetur blandit ligula, ut convallis augue volutpat eget.
+	Cras ac ante nulla. Integer fermentum eu libero sit amet rhoncus.
+	Interdum et malesuada fames ac ante ipsum primis in faucibus.
+	Nullam consequat justo sagittis neque mollis ultrices.
+	\newpage
+
+	\bibliography{main}
+	\newpage
+
+\end{document}

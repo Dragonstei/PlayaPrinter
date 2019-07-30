@@ -1,0 +1,670 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.23)  19 MAR 2019 08:53
+entering extended mode
+**"./Playa printer Vooronderzoek.tex"
+("Playa printer Vooronderzoek.tex"
+LaTeX2e <2018-04-01> patch level 5
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Thomas Martens\AppData\Roaming\MiKTeX\2.9\tex\latex\preprint\fullpag
+e.sty"
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip43
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
+\col@sep=\dimen111
+\ar@mcellbox=\box26
+\extrarowheight=\dimen112
+\NC@list=\toks16
+\extratabsurround=\skip44
+\backup@length=\skip45
+\ar@cellbox=\box27
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2018/08/03 v2.3 Span multiple rows of a table
+\multirow@colwidth=\skip46
+\multirow@cntb=\count91
+\multirow@dima=\skip47
+\bigstrutjot=\dimen113
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count92
+\float@exts=\toks17
+\float@box=\box28
+\@float@everytoks=\toks18
+\@floatcapt=\box29
+)
+("C:\Users\Thomas Martens\AppData\Roaming\MiKTeX\2.9\tex\latex\comment\comment.
+sty"
+\CommentStream=\write3
+ Excluding comment 'comment')
+("C:\Users\Thomas Martens\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.st
+y"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("D:\Studie\GITLAB Playa printer\playa-printer\Documentation\Thomas\Playa print
+er Latex onderzoek\build\Playa printer Vooronderzoek.aux")
+\openout1 = `"Playa printer Vooronderzoek.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(42.67912pt, 709.61174pt, 42.67912pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=709.61174pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-29.59087pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+("C:\Users\Thomas Martens\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.
+mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count93
+\scratchdimen=\dimen116
+\scratchbox=\box30
+\nofMPsegments=\count94
+\nofMParguments=\count95
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count96
+\MPscratchDim=\dimen117
+\MPnumerator=\count97
+\makeMPintoPDFobject=\count98
+\everyMPtoPDFconversion=\toks20
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 15.
+<Playaprinter.png, id=1, 988.44281pt x 513.41812pt>
+File: Playaprinter.png Graphic file (type png)
+<use Playaprinter.png>
+Package pdftex.def Info: Playaprinter.png  used on input line 20.
+(pdftex.def)             Requested size: 494.2202pt x 256.70842pt.
+ [1
+
+{C:/Users/Thomas Martens/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <D:
+/Studie/GITLAB Playa printer/playa-printer/Documentation/Thomas/Playa printer L
+atex onderzoek/build/Playaprinter.png>]
+("D:\Studie\GITLAB Playa printer\playa-printer\Documentation\Thomas\Playa print
+er Latex onderzoek\build\Playa printer Vooronderzoek.toc"
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 3.
+)
+\tf@toc=\write4
+\openout4 = `"Playa printer Vooronderzoek.toc"'.
+
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+<3dmaterials.png, id=17, 712.16063pt x 187.45032pt>
+File: 3dmaterials.png Graphic file (type png)
+<use 3dmaterials.png>
+Package pdftex.def Info: 3dmaterials.png  used on input line 56.
+(pdftex.def)             Requested size: 356.07944pt x 93.72491pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+<algea.png, id=19, 904.88063pt x 353.06906pt>
+File: algea.png Graphic file (type png)
+<use algea.png>
+Package pdftex.def Info: algea.png  used on input line 66.
+(pdftex.def)             Requested size: 452.43921pt x 176.53409pt.
+[4 <D:/Studie/GITLAB Playa printer/playa-printer/Documentation/Thomas/Playa pri
+nter Latex onderzoek/build/3dmaterials.png> <D:/Studie/GITLAB Playa printer/pla
+ya-printer/Documentation/Thomas/Playa printer Latex onderzoek/build/algea.png>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+<clayTotal.png, id=25, 1102.1175pt x 341.02406pt>
+File: clayTotal.png Graphic file (type png)
+<use clayTotal.png>
+Package pdftex.def Info: clayTotal.png  used on input line 78.
+(pdftex.def)             Requested size: 495.94829pt x 153.4594pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+<powder.png, id=26, 697.10437pt x 305.64188pt>
+File: powder.png Graphic file (type png)
+<use powder.png>
+Package pdftex.def Info: powder.png  used on input line 89.
+(pdftex.def)             Requested size: 209.13292pt x 91.69325pt.
+[5 <D:/Studie/GITLAB Playa printer/playa-printer/Documentation/Thomas/Playa pri
+nter Latex onderzoek/build/clayTotal.png> <D:/Studie/GITLAB Playa printer/playa
+-printer/Documentation/Thomas/Playa printer Latex onderzoek/build/powder.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+[6]
+<hotend.png, id=34, 809.27344pt x 586.44093pt>
+File: hotend.png Graphic file (type png)
+<use hotend.png>
+Package pdftex.def Info: hotend.png  used on input line 114.
+(pdftex.def)             Requested size: 242.7839pt x 175.93362pt.
+<build/Stereolithography.png, id=35, 382.42876pt x 301.125pt>
+File: build/Stereolithography.png Graphic file (type png)
+<use build/Stereolithography.png>
+Package pdftex.def Info: build/Stereolithography.png  used on input line 126.
+(pdftex.def)             Requested size: 191.2139pt x 150.56212pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+[7 <D:/Studie/GITLAB Playa printer/playa-printer/Documentation/Thomas/Playa pri
+nter Latex onderzoek/build/hotend.png> <./build/Stereolithography.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--137
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+
+ []
+
+<PBF.png, id=41, 332.74312pt x 255.95625pt>
+File: PBF.png Graphic file (type png)
+<use PBF.png>
+Package pdftex.def Info: PBF.png  used on input line 144.
+(pdftex.def)             Requested size: 249.55672pt x 191.9667pt.
+[8 <D:/Studie/GITLAB Playa printer/playa-printer/Documentation/Thomas/Playa pri
+nter Latex onderzoek/build/PBF.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+
+ []
+
+<auger.png, id=45, 1013.7875pt x 689.57625pt>
+File: auger.png Graphic file (type png)
+<use auger.png>
+Package pdftex.def Info: auger.png  used on input line 161.
+(pdftex.def)             Requested size: 253.44626pt x 172.39363pt.
+<screwCombine.png, id=46, 827.34094pt x 228.855pt>
+File: screwCombine.png Graphic file (type png)
+<use screwCombine.png>
+Package pdftex.def Info: screwCombine.png  used on input line 172.
+(pdftex.def)             Requested size: 413.66946pt x 114.42722pt.
+[9 <D:/Studie/GITLAB Playa printer/playa-printer/Documentation/Thomas/Playa pri
+nter Latex onderzoek/build/auger.png> <D:/Studie/GITLAB Playa printer/playa-pri
+nter/Documentation/Thomas/Playa printer Latex onderzoek/build/screwCombine.png>
+]
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 194.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 194.
+<augerAndExtruder.png, id=50, 374.90062pt x 261.22594pt>
+File: augerAndExtruder.png Graphic file (type png)
+<use augerAndExtruder.png>
+Package pdftex.def Info: augerAndExtruder.png  used on input line 214.
+(pdftex.def)             Requested size: 374.8997pt x 261.22528pt.
+ [10 <D:/Studie/GITLAB Playa printer/playa-printer/Documentation/Thomas/Playa p
+rinter Latex onderzoek/build/augerAndExtruder.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
+
+ []
+
+<build/brushMotor.png, id=56, 178.266pt x 96.36pt>
+File: build/brushMotor.png Graphic file (type png)
+<use build/brushMotor.png>
+Package pdftex.def Info: build/brushMotor.png  used on input line 252.
+(pdftex.def)             Requested size: 178.26555pt x 96.35974pt.
+[11 <./build/brushMotor.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 258--259
+
+ []
+
+<build/brushless.png, id=60, 722.7pt x 542.025pt>
+File: build/brushless.png Graphic file (type png)
+<use build/brushless.png>
+Package pdftex.def Info: build/brushless.png  used on input line 286.
+(pdftex.def)             Requested size: 252.94878pt x 189.71158pt.
+[12 <./build/brushless.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
+
+ []
+
+<build/Steppermotor.png, id=64, 1204.5pt x 910.40125pt>
+File: build/Steppermotor.png Graphic file (type png)
+<use build/Steppermotor.png>
+Package pdftex.def Info: build/Steppermotor.png  used on input line 322.
+(pdftex.def)             Requested size: 180.6672pt x 136.55429pt.
+[13 <./build/Steppermotor.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
+
+ []
+
+<build/linearMotor.png, id=70, 520.19344pt x 202.50656pt>
+File: build/linearMotor.png Graphic file (type png)
+<use build/linearMotor.png>
+Package pdftex.def Info: build/linearMotor.png  used on input line 355.
+(pdftex.def)             Requested size: 260.09607pt x 101.25302pt.
+[14 <./build/linearMotor.png>]
+Overfull \hbox (12.31076pt too wide) in paragraph at lines 367--389
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--393
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--395
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--397
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 412--413
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--415
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 416--417
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--419
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 420--421
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--423
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--425
+
+ []
+
+
+Overfull \hbox (12.85823pt too wide) in paragraph at lines 432--454
+ [] 
+ []
+
+[16] [17]
+Underfull \hbox (badness 10000) in paragraph at lines 496--498
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 499--501
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 502--504
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--507
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--510
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--513
+
+ []
+
+
+Overfull \hbox (26.18114pt too wide) in paragraph at lines 514--516
+\OT1/cmr/m/n/10.95 https://www.dezeen.com/2017/12/04/dutch-designers-eric-klare
+nbeek-maartje-dros-convert-algae-biopolymer-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 514--516
+
+ []
+
+
+Overfull \hbox (23.23068pt too wide) in paragraph at lines 517--519
+\OT1/cmr/m/n/10.95 https://www.3ders.org/articles/20131021-3d-printed-mycelium-
+chair-made-from-water-straw-and-fungus.html 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--519
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--522
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--525
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 526--528
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--531
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--534
+
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 536--538
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--541
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 542--544
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--547
+
+ []
+
+
+Overfull \hbox (6.10623pt too wide) in paragraph at lines 548--550
+\OT1/cmr/m/n/10.95 https://www.lboro.ac.uk/research/amrg/about/the7categoriesof
+additivemanufacturing/powderbedfusion/ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 548--550
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 552--554
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--557
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--561
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--564
+
+ []
+
+[19]
+("D:\Studie\GITLAB Playa printer\playa-printer\Documentation\Thomas\Playa print
+er Latex onderzoek\build\Playa printer Vooronderzoek.aux") ) 
+Here is how much of TeX's memory you used:
+ 2718 strings out of 492969
+ 39449 string characters out of 3135817
+ 114401 words of memory out of 3000000
+ 6540 multiletter control sequences out of 15000+200000
+ 9157 words of font info for 32 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,8n,35p,648b,233s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on "D:\Studie\GITLAB Playa printer\playa-printer\Documentation\T
+homas\Playa printer Latex onderzoek\build\Playa printer Vooronderzoek.pdf" (19 
+pages, 6859474 bytes).
+PDF statistics:
+ 118 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+

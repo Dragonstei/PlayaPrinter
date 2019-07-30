@@ -1,0 +1,13 @@
+Notulen Sprint review 2 
+19 Maart 2019. 09:00 - 09:30  
+Aanwezig: ProjectGroep(Thomas,Stan,Hans,Rick)+ Ornello + Daisy + Wouter 
+
+Onderwerp: Sprint review 2 bespreking 
+
+	- Duidelijke presentatie 
+	- Goed gebruikt plaatjes/schema voor ondersteuning
+	- Minder nonchalant gedragen
+	- Uitleg omtrent 3D printhead/extruder duidelijk
+	- Duidelijker uitleggen wie wat precies gedaan heeft
+	- Risciolog in de gaten houden/uitbreiden waar nodig
+	

@@ -1,0 +1,47 @@
+Gcode documentation, information gathered from http://marlinfw.org/meta/gcode/
+
+Beweging X/Y-as:
+- G0 for Rapid Move
+- G1 for Linear Move
+
+G0 Xnnn Ynnn Fnnn (X-as, Y-as, Feedrate (mm/minute))
+Feedrate should only be set once based on the desired speed.
+G1 Ennn (Extrude mm)
+
+G28 Move to home positie (X:0, Y:0)
+
+M18 turn off motors
+
+M82 to set the printer in absolute mode, this means that you have to tell to which coordinate the printer needs to move.
+M83 sets the printer in relative mode, this means that the printer will move with the given value based on it's current position.
+
+The printer currently has it's dimensions set to 2000x2000mm, this because the motors still need to be calibrated.
+
+G92 sets the current position to the values specified
+
+M92 to change steps per unit.
+
+M114 (D): Information about current position, parameter D gives a more detailed description.
+
+M119: Endstop status
+M120: Enable endstops
+M121: Disable endstops
+
+M211 S(0|1) Software endstop status (On/Off), requires either MIN_SOFTWARE_ENDSTOPS or MAX_SOFTWARE_ENDSTOPS for the enable option.
+
+M302       ; Report current state
+M302 P1    ; Allow cold extrusion
+M302 S120 R110 ; Allow extrusion starting from 120°C and retractions already from 110°C
+M302 S0    ; Allow extrusion at any temperature
+M302 S170  ; Allow extrusion above 170
+
+M500 needs to be enabled in the firmware, used to save current settings to EEPROM
+M501 to change the EEPROM settings back to what is saved, useful when experimenting with different settings
+M502 to reset all EEPROM settings.
+M503 to read all settings.
+M504 checks if the EEPROM has the correct version and sends it back to the user.
+
+ToDo:
+-Calibrate steps for X/Y-axis motors
+-Acceleration, Pulse/rev, Jerk, RPM (prusa calculators)
+-Figure out how to approach building and calibrating the Z-axis
