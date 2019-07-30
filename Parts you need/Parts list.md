@@ -1,4 +1,4 @@
-| Item Description        | Dimensions (mm)           | Quantity  |     | Specifications  |
+| Item Description        | Dimensions (mm)           | Quantity  |      Specifications  |
 | ------------- |:-------------:| -----:|-----:|
 | DT31-300      | 2000 x 50 x 50 | 10 ||
 | DT33-150      | 1500 x 330 x 290      |   4 ||
